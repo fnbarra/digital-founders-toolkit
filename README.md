@@ -12,7 +12,7 @@ Este repositorio reúne plantillas, guías y *cheat sheets* para auditar el desa
 Recursos enfocados en auditar entregables, evitar sobrecostos y gestionar repositorios profesionales.
 
 * 📄 **[Git & GitHub Cheat Sheet](./CHEAT_SHEET_Github.md):** Guía rápida de comandos, flujos de trabajo (branches/PRs) y sintaxis de Markdown para reportes ejecutivos.
-* 📋 **[Plantilla de Reporte Ejecutivo](./docs/01-gobernanza-git/reporte-ejecutivo-template.md):** Estructura para validar avances reales basados en código vs. promesas.
+* 📋 **[Plantilla de Reporte Ejecutivo](./docs/01-gobernanza-git/reporte-ejecutivo-template.md): (Proximamente)** Estructura para validar avances reales basados en código vs. promesas.
 
 ---
 
