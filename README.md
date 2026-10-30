@@ -1,30 +1,41 @@
-# Git y GitHub: una guía práctica para founders
+# Digital Founders Toolkit 🧰
 
-GitHub no es solo una herramienta para programar: también permite seguir el trabajo, revisar cambios y conservar un historial compartido. Para quien lidera un producto o un equipo —con o sin perfil técnico—, entender sus fundamentos ayuda a hacer mejores preguntas y a comprobar el avance con evidencias.
+Una caja de herramientas práctica y orientada a la gobernanza para Founders, Directores y Líderes de Productos Digitales. 
 
-Este repositorio nace de una experiencia concreta: cuando la coordinación, la documentación y la visibilidad del trabajo fallan, se puede perder tiempo y dinero. Su propósito es acercar los conceptos básicos de Git y GitHub a founders, responsables de negocio y equipos que trabajan en remoto.
+Este repositorio reúne plantillas, guías y *cheat sheets* para auditar el desarrollo tecnológico, estructurar la documentación de negocio y tomar el control de la producción sin necesidad de ser un perfil técnico.
 
-## El recurso
+---
 
-La [Git & GitHub Cheat Sheet](./Git_y_GitHub_Cheat_Sheet_Founders.md) está escrita en Markdown y es una referencia práctica para estructurar documentación, reportes ejecutivos y repositorios profesionales. También incluye comandos básicos de Git y un flujo de branches y pull requests para colaborar y revisar cambios.
+## 🗂️ Contenido del Toolkit
 
-Está pensada como punto de partida, no como sustituto de la práctica ni como manual completo de Git o GitHub. Los comandos de ejemplo asumen una rama principal llamada `main` y un remoto llamado `origin`; adapta esos nombres a tu repositorio. Antes de ejecutar operaciones que restauran o eliminan archivos, revisa el estado y las diferencias para confirmar qué cambios quieres conservar.
+### 1. Gobernanza, Git & GitHub (Módulo Activo)
+Recursos enfocados en auditar entregables, evitar sobrecostos y gestionar repositorios profesionales.
 
-## ¿Por qué puede ser útil?
+* 📄 **[Git & GitHub Cheat Sheet](./CHEAT_SHEET_Github.md):** Guía rápida de comandos, flujos de trabajo (branches/PRs) y sintaxis de Markdown para reportes ejecutivos.
+* 📋 **[Plantilla de Reporte Ejecutivo](./docs/01-gobernanza-git/reporte-ejecutivo-template.md):** Estructura para validar avances reales basados en código vs. promesas.
 
-- **Más visibilidad:** consultar el estado y el historial de los cambios.
-- **Mejor coordinación:** compartir y sincronizar el trabajo del equipo.
-- **Documentación más clara:** usar el repositorio como espacio de trabajo y registro.
-- **Decisiones con evidencia:** contrastar avances con cambios concretos, además de los reportes.
+---
 
-GitHub por sí solo no garantiza que un proyecto avance ni reemplaza la comunicación, la revisión técnica o una buena gestión. Sí ofrece información que ayuda a conversar sobre el trabajo con más contexto y trazabilidad.
+### 2. Data & Analytics para Founders *(Próximamente)*
+* 📊 Consultas SQL esenciales para validar métricas de negocio y KPIs.
+* 📈 Plantillas de modelado de datos para toma de decisiones.
 
-## Cómo empezar
+---
 
-1. Abre la cheat sheet y prueba los comandos en un repositorio de práctica.
-2. Antes de ejecutar comandos que restauran o eliminan archivos, revisa el estado y las diferencias para confirmar qué cambios quieres conservar.
-3. Consulta la documentación oficial de Git y GitHub cuando necesites profundizar o verificar un flujo de trabajo.
+### 3. Automatización de Procesos *(Próximamente)*
+* 🐍 Scripts básicos en Python para optimización de flujos operativos y FP&A.
 
-## Contexto de aprendizaje
+---
 
-Este material puede conectar la gestión de productos digitales con el aprendizaje técnico: comprender cómo se organiza y registra el trabajo ayuda a colaborar mejor con quienes construyen el producto. Si forma parte de tu recorrido, puedes contextualizarlo junto con el máster y 42 Urduliz, explicando qué perspectiva te aportó cada experiencia, sin presentarlos como autores o promotores del recurso.
+## 🚀 Cómo usar este repositorio
+
+1. **Explora los módulos:** Navega a través de los enlaces para acceder a cada archivo Markdown.
+2. **Clona o copia las plantillas:** Puedes clonar el repositorio completo para adaptarlo a las necesidades de tu empresa o equipo.
+3. **Aplica en tu flujo de trabajo:** Utiliza las estructuras de reporte y verificación de Git para auditar los avances de tus proyectos tecnológicos.
+
+---
+
+## 🤝 Contribuciones y Feedback
+Este proyecto nace de la experiencia real gestionando productos y equipos remotos. Si tienes sugerencias, comentarios o mejoras, ¡un PR o un *Issue* siempre son bienvenidos!
+
+⭐ **Si este recurso te resulta útil, dale una estrella al repositorio para ayudar a que llegue a más Founders.**
